@@ -1,0 +1,1 @@
+$(urlfetch http://api.scorpstuff.com/dadjokes.php)
